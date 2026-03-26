@@ -1,20 +1,14 @@
 Vehicle Component Defect Detection Method Based on Transformer and Multi-Scale Feature Fusion
 
-![Model](./figures/Figure 1.png)
+<img width="2490" height="1224" alt="Figure 1" src="https://github.com/user-attachments/assets/4c497f49-d22c-486b-a771-092fcf5e7a00" />
+<img width="3116" height="1624" alt="Figure 2" src="https://github.com/user-attachments/assets/e80f2970-9e12-429e-bf33-0be19721ad38" />
+<img width="3248" height="1490" alt="Figure 3" src="https://github.com/user-attachments/assets/f838a153-c707-4dc5-8714-dd324d1fb952" />
+<img width="1536" height="1024" alt="Figure 4" src="https://github.com/user-attachments/assets/0df66473-c818-4efb-bdff-a83ab8bd66bd" />
+<img width="1536" height="972" alt="Figure 5" src="https://github.com/user-attachments/assets/57586add-bd22-4bc2-a3fe-6057dadd1a5f" />
+<img width="1742" height="632" alt="Figure 6" src="https://github.com/user-attachments/assets/450204c0-db5b-4310-87c2-b79db21ce7bc" />
+<img width="659" height="356" alt="Figure 7" src="https://github.com/user-attachments/assets/6afdb33b-7519-456b-a73a-9852485c86d5" />
+<img width="1106" height="803" alt="Figure 8" src="https://github.com/user-attachments/assets/ca249498-2e03-4860-8ac7-7b33de1cd1fa" />
 
-![Figure 2](./figures/Figure 2.png)
-
-![Figure 3](./figures/Figure 3.png)
-
-![Figure 4](./figures/Figure 4.png)
-
-![Figure 5](./figures/Figure 5.png)
-
-![Figure 6](./figures/Figure 6.png)
-
-![Figure 7](./figures/Figure 7.png)
-
-![Figure 8](./figures/Figure 8.png)
 
 
 ## Abstract
